@@ -1,4 +1,36 @@
-# React + Vite
+# About
+
+A simple e-commerce App built with React.js focused on Cart Functionality
+
+## Demo
+
+Explore the Demo [Here](https://www.google.com)
+
+## Get Started
+
+After downloading the files, install the dependencies:
+
+```ssh
+npm install
+```
+
+Then you can run the project:
+
+```ssh
+npm run dev
+```
+
+## Contributing
+
+Contributions are Welcome!
+
+If you have any suggestions to improve this, please fork the repository and create a pull request. You can also open an issue. Don't forget to star the project! Thank you!
+
+## License
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
