@@ -19,7 +19,7 @@ Contributions are Welcome!
 If you have any suggestions to improve this, please fork the repository and create a pull request. You can also open an issue. Don't forget to star the project! Thank you!
 
 ## License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
+This project is licensed under the [MIT]([https://choosealicense.com/licenses/mit/](https://github.com/sina-pirvand/react-shopping-cart/blob/master/LICENSE)) License
 
 ## React + Vite
 
