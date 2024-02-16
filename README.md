@@ -2,7 +2,7 @@
 A simple e-commerce App built with React.js focused on Cart Functionality
 
 ## Demo
-Explore the Demo [Here](https://www.google.com)
+Explore the Demo on [Netlify](https://react-shopping-cart-csb2.netlify.app/) or [Vercel](https://react-shopping-cart-csb2-skl3tmeqo-sina-pirvand.vercel.app/)
 
 ## Get Started
 After downloading the files, install the dependencies:
